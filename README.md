@@ -8,24 +8,20 @@ From model research to production systems.
 
 </div>
 
-<br>
-
 I'm an AI Engineer at **Asseco Poland**, working at the intersection of research and engineering. I translate experimental ideas into efficient and reliable production systems.
 
 I'm particularly interested in problems **close to the model itself**: how models learn, how they behave, and how to evaluate and improve them.
 
-<br>
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <h3>Research &amp; Models</h3>
       Training &amp; post-training<br>
       Experimentation &amp; evaluation<br>
       Speech &amp; language models<br>
       Understanding model behavior
     </td>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <h3>Engineering &amp; Systems</h3>
       GPU inference &amp; model serving<br>
       Performance optimization<br>
@@ -34,8 +30,6 @@ I'm particularly interested in problems **close to the model itself**: how model
     </td>
   </tr>
 </table>
-
-<br>
 
 <div align="center">
 
@@ -52,7 +46,7 @@ I'm particularly interested in problems **close to the model itself**: how model
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&amp;logo=ray&amp;logoColor=white" alt="Ray" />
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/marcinbrze%C5%BCa%C5%84ski/">
   <img src="https://img.shields.io/badge/LinkedIn-173D46?style=for-the-badge" alt="Connect on LinkedIn" />
